@@ -1,6 +1,15 @@
 # Welcome to JU-ForkMe
-## **JU-ForkMe** project helps you to make your first step on *open source contribution.*
+## **JU-ForkMe** helps you to make your first step on *open source contribution.*
 Contribute to this project, make a *Pull Request* add see your profile card displayed here! 
+
+
+# Contributors 
+
+| **NAME**           | **PROFILE**                                                                                      |
+|--------------------|-----------------------------------------------------------------------------------------------|
+| JU Computer Club | [Click me](Contributors/example.md) |
+| Demo2 | sda |
+| Demo3 | hsd |
 
 #  Contributing Guideline
 
@@ -29,13 +38,6 @@ Follow these steps to make your first pull request:
 9. You can follow our socials mentioned at the *Credits sections*
 
 
-## Contributors 
-
-| **NAME**           | **LINK**                                                                                      |
-|--------------------|-----------------------------------------------------------------------------------------------|
-| JU Computer Club | [link](Contributors/example.md) |
-| Demo2 | sda |
-| Demo3 | hsd |
 
 
 # Credits
