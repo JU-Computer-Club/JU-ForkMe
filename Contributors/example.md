@@ -1,4 +1,7 @@
 ![Image](../Images/jucomputerclub.png)<br>
-Name: JU Computer Club<br>
-Email: jucomputer@gmail.com<br>
-Institute: Jahangirnagar University<br>
+## Name <br>
+**JU Computer Club**
+## Institute <br>
+**Jahangirnagar University**
+## Department <br>
+**DemoDept**
