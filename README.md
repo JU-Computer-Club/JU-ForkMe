@@ -1,5 +1,5 @@
 # JU-ForkMe
-**JU-ForkMe** project helps you to make your first step on *open source contribution.*
+## **JU-ForkMe** project helps you to make your first step on *open source contribution.*
 Contribute to this project by *Pull Request* add see your profile card displayed here! 
 
 # Welcome to JU-ForkMe
