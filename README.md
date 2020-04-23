@@ -30,13 +30,13 @@ Follow these steps to make your first pull request:
 ## LINKS
 
 | **NAME**           | **LINK**                                                                                      |
-|--------------------|---------------------------------------------------------------------------------------------|
+|--------------------|-----------------------------------------------------------------------------------------------|
 | JU Computer Club | [link](Contributors/example.md) |
 | Demo2 | sda |
 | Demo3 | hsd |
 
 
 # Credits
-Brought to you by **JU Computer Club** from **Jahangirnagar University**
-Like us on [![Facebook](https://i.imgur.com/fep1WsG.png)](https://www.facebook.com/jucomputerclub)
-Follow us on [![Twitter](https://i.imgur.com/wWzX9uB.png)](https://twitter.com/JUComputerClub)
+Brought to you by **JU Computer Club** from **Jahangirnagar University**<br>
+Like us on [![Facebook](https://i.imgur.com/fep1WsG.png)](https://www.facebook.com/jucomputerclub)<br>
+Follow us on [![Twitter](https://i.imgur.com/wWzX9uB.png)](https://twitter.com/JUComputerClub)<br>
