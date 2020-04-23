@@ -1,10 +1,6 @@
 # JU-ForkMe
-JU-ForkMe project helps you to make your first step on open source contribution.
+**JU-ForkMe** project helps you to make your first step on *open source contribution.*
 Contribute to this project by *Pull Request* add see your profile card displayed here! 
-
-# Credits
-Brought to you by **JU Computer Club** from **Jahangirnagar University**
-
 
 # Welcome to JU-ForkMe
 
@@ -24,7 +20,7 @@ Follow these steps to make your first pull request:
     ```
 5. Then create your first *Pull Request*.
 
-6. Star this repository.
+6. Star this repository! :star: 
 
 7. Congratulations! Your pull request has been successfully created!
 
@@ -33,8 +29,13 @@ Follow these steps to make your first pull request:
 
 ## LINKS
 
-| *NAME *           | *LINK*                                                                                      |
+| **NAME**           | **LINK**                                                                                      |
 |----------------------|---------------------------------------------------------------------------------------------|
-| Brazilian Portuguese | avc |
-| German               | sda  |
-| Peruvian Spanish     | hsd |
+| Demo1 | avc |
+| Demo2               | sda  |
+| Demo3     | hsd |
+
+
+# Credits
+Brought to you by **JU Computer Club** from **Jahangirnagar University**
+Like us on [![Facebook](http://i.imgur.com/P3YfQoD.png)][http://www.facebook.com/sednaoui]
