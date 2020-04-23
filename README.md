@@ -1,8 +1,8 @@
-# JU-ForkMe
-## **JU-ForkMe** project helps you to make your first step on *open source contribution.*
-Contribute to this project by *Pull Request* add see your profile card displayed here! 
-
 # Welcome to JU-ForkMe
+## **JU-ForkMe** project helps you to make your first step on *open source contribution.*
+Contribute to this project, make a *Pull Request* add see your profile card displayed here! 
+
+#  Contributing Guideline
 
 Follow these steps to make your first pull request:
 
@@ -24,10 +24,12 @@ Follow these steps to make your first pull request:
 
 7. Congratulations! Your pull request has been successfully created!
 
-8. Email us at info@jucomputerclub.org to see the changes
+8. Email us at info@jucomputerclub.org to and wait till we review and merge your changes!
+
+9. You can follow our socials mentioned at the *Credits sections*
 
 
-## LINKS
+## Contributors 
 
 | **NAME**           | **LINK**                                                                                      |
 |--------------------|-----------------------------------------------------------------------------------------------|
