@@ -5,11 +5,10 @@ Contribute to this project, make a *Pull Request* add see your profile card disp
 
 # Contributors 
 
-| **NAME**           | **PROFILE**                                                                                      |
+| **NAME**           | **PROFILE**                                                                                   |
 |--------------------|-----------------------------------------------------------------------------------------------|
 | JU Computer Club | [Click me](Contributors/example.md) |
-| Demo2 | sda |
-| Demo3 | hsd |
+| Meraj al Maksud | [Click me](Contributors/example2.md) |
 
 #  Contributing Guideline
 
@@ -36,8 +35,6 @@ Follow these steps to make your first pull request:
 8. Email us at info@jucomputerclub.org to and wait till we review and merge your changes!
 
 9. You can follow our socials mentioned at the *Credits sections*
-
-
 
 
 # Credits
