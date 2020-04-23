@@ -32,10 +32,11 @@ Follow these steps to make your first pull request:
 | **NAME**           | **LINK**                                                                                      |
 |----------------------|---------------------------------------------------------------------------------------------|
 | Demo1 | avc |
-| Demo2               | sda  |
-| Demo3     | hsd |
+| Demo2 | sda |
+| Demo3 | hsd |
 
 
 # Credits
 Brought to you by **JU Computer Club** from **Jahangirnagar University**
-Like us on [![Facebook](http://i.imgur.com/P3YfQoD.png)][http://www.facebook.com/sednaoui]
+Like us on [![Facebook](https://i.imgur.com/P3YfQoD.png)](https://www.facebook.com/jucomputerclub)
+Follow us on [![Twitter](https://i.imgur.com/tXSoThF.png)](https://twitter.com/JUComputerClub)
