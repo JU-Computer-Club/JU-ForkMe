@@ -38,5 +38,5 @@ Follow these steps to make your first pull request:
 
 # Credits
 Brought to you by **JU Computer Club** from **Jahangirnagar University**
-Like us on [![Facebook](https://i.imgur.com/P3YfQoD.png)](https://www.facebook.com/jucomputerclub)
-Follow us on [![Twitter](https://i.imgur.com/tXSoThF.png)](https://twitter.com/JUComputerClub)
+Like us on [![Facebook](https://i.imgur.com/fep1WsG.png)](https://www.facebook.com/jucomputerclub)
+Follow us on [![Twitter](https://i.imgur.com/wWzX9uB.png)](https://twitter.com/JUComputerClub)
