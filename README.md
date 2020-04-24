@@ -51,5 +51,6 @@ Follow these steps to make your first pull request:
 
 
 # Credits
+Guideline images collected from [First-contributions](https://github.com/firstcontributions/first-contributions). <br> 
 Brought to you by **JU Computer Club** from **Jahangirnagar University**<br>
 Like us on [![Facebook](https://i.imgur.com/fep1WsG.png)](https://www.facebook.com/jucomputerclub) and follow on [![Twitter](https://i.imgur.com/wWzX9uB.png)](https://twitter.com/JUComputerClub)<br>
