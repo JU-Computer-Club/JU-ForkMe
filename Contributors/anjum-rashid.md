@@ -1,4 +1,4 @@
-<img src="../Images/anjum-rashid.JPG" alt="Anjum Rashid image" width="400"/> <br>
+<img src="../Images/anjum-rashid.JPG" alt="Anjum Rashid image" width="200"/> <br>
 ## Name <br>
 **Anjum Rashid**
 
