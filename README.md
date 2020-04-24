@@ -1,3 +1,5 @@
+<img width="900" src="howto/JU-ForkMe.png" alt="Readme cover" />
+
 # Welcome to JU-ForkMe
 ## **JU-ForkMe** helps you to make your first step on *open source contribution.*
 Contribute to this project, make a *Pull Request* add see your profile card displayed here!
