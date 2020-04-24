@@ -74,8 +74,10 @@ Now you are ready to create your first **Pull Request!**.
 Click on **Create Pull Request.**
 <img style="float: right;" src="howto/compare.png" alt="create a pull request" />
 
-6. Now review and submit the pull request. Make sure to add necessary information in the description.
-
+6. Review your pull request.
+<br>See if your github repository is on the the *head-repository* and it is pointing to the base repository (which is *JU-Computer-Club/JU-ForkMe*).
+<br> Replace the pull request **title** with "Your-Name" and in the **description**, you may write anything you want.(optional) 
+Click on **Create Pull Request**
 <img style="float: right;" src="howto/pull-request.png" alt="submit pull request" />
 
 7. Star this repository! :star:
@@ -84,7 +86,7 @@ Click on **Create Pull Request.**
 
 9. Email us at info@jucomputerclub.org to and wait till we review and merge your changes!
 
-10. You can follow our socials mentioned at the *Credits sections*.
+10. You can follow our socials mentioned at the *Credits sections*. (Optional)
 
 
 # Credits
