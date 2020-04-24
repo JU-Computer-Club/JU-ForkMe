@@ -17,11 +17,12 @@ Follow these steps to make your first pull request:
 
 1. First Fork this repository in your github account.
 
-<img width="300" src="howto/fork.png" alt="fork this repository" />
+<img width="400" src="howto/fork.png" alt="fork this repository" />
 
 2. Clone your forked repository to your local machine.
 
-<img width="300" src="howto/clone.png" alt="clone this repository" /><img width="300" src="howto/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img width="400" src="howto/clone.png" alt="clone this repository" /> <br> 
+<img width="400" src="howto/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 3. Edit the necessary changes to the files
 
@@ -51,6 +52,6 @@ Follow these steps to make your first pull request:
 
 
 # Credits
-Guideline images collected from [First-contributions](https://github.com/firstcontributions/first-contributions). <br> 
+Some guideline images collected from [First-contributions](https://github.com/firstcontributions/first-contributions). <br> 
 Brought to you by **JU Computer Club** from **Jahangirnagar University**<br>
 Like us on [![Facebook](https://i.imgur.com/fep1WsG.png)](https://www.facebook.com/jucomputerclub) and follow on [![Twitter](https://i.imgur.com/wWzX9uB.png)](https://twitter.com/JUComputerClub)<br>
