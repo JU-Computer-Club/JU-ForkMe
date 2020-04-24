@@ -18,17 +18,18 @@ Follow these steps to make your first pull request:
 
 1. First Fork this repository in your github account.
 
-<img width="400" src="howto/fork.png" alt="fork this repository" />
+<img width="450" src="howto/fork.png" alt="fork this repository" />
+
 
 2. Now you need to clone your forked repository to your local machine. <br>
 Head back to your **GitHub account**, open the forked repository, click on the *clone* button, click **clone with HTTPS** and then click the *copy to clipboard* icon.
 
 <br>
-<img width="400" src="howto/clone.png" alt="clone this repository" /> <br>
+<img width="450" src="howto/clone.png" alt="clone this repository" /> <br>
 
-<img width="400" src="howto/copy-to-clipboard.png" alt="copy URL to clipboard"/>
+<img width="450" src="howto/copy-to-clipboard.png" alt="copy URL to clipboard"/>
 
-Open Git Bash (or some other terminal) and type the following git command:
+Open **Git Bash** (or some other terminal) and type the following git command:
 
 ```
 git clone "URL"
@@ -38,6 +39,7 @@ Replace *URL* with the copied link.It should look like the following -
 git clone "https://github.com/JU-Computer-Club/JU-ForkMe.git"
 ```
 You will see a new folder named *JU-ForkMe* has been downloaded to your machine on the **directory** that *Git Bash* is on.
+
 
 3. From there, your need to edit the necessary changes to some files. <br>
 
@@ -60,6 +62,7 @@ Then make other changes according to your own information and save the file.
 ```
 Great! Now you have finished all the edits. <br>
 Recheck all the steps twice to make sure that everything is okay. <br>
+
 4. Next you need to push your local repo to your github repo. Write these commands on your terminal:
 
     ```
@@ -68,7 +71,7 @@ Recheck all the steps twice to make sure that everything is okay. <br>
     git push origin master
     ```
     
-5.Go back to your **Github forked Repository** and check if you see your new files.
+5. Go back to your **Github forked Repository** and check if you see your new files.
 If everything goes right, you will see your name on *Contributors* list on the *README* file and clicking on *Click Me* will open up your own profile card!
 <br>
 Now you are ready to create your first **Pull Request!**.
