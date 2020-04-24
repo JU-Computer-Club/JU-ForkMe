@@ -48,9 +48,9 @@ You will see a new folder named *JU-ForkMe* has been downloaded to your machine 
 First, goto **Images** folder and place your portrait image titled "Your-Name.png" or "Your-Name.jpg" (replace Your-name with your fullname without space).
 <br><br>Secondly, goto **Contributors** folder and create a file named "Your-Name.md" (replace Your-name with your fullname without space).
 <br> Copy the contents of the file *example.md*, paste it to your newly created file. 
-<br> Make sure that the first line looks like the following (replace *Your-name.jpg* with your image file name) 
+<br> Make sure that the first line looks like the following (replace *Your-name.jpg* with your image file name with proper extension) 
 ```
-![Image](../Images/Your-name.jpg)<br>
+<img src="../Images/Your-name.jpg" alt="your full name" width="200"/> <br>
 ```
 Then make other changes according to your own information and save the file.
 <br><br>Finally, head back and open *README.md* and change the following table by adding a row of your own on the bottom of the table. Save it when your row looks like the following. (Of course replace Your-name.md with your one) -
