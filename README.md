@@ -11,6 +11,7 @@ Contribute to this project, make a *Pull Request* add see your profile card disp
 | JU Computer Club | [Click me](Contributors/example.md) |
 | Meraj al Maksud | [Click me](Contributors/example2.md) |
 | Md.Habibur Rahman | [Click me](Contributors/Habib_contribution.md) |
+| Anjum Rashid | [Click me](Contributors/anjum-rashid.md) |
 
 #  Contributing Guideline
 
