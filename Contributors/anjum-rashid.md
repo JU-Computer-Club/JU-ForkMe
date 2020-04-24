@@ -1,4 +1,4 @@
-![Image](../Images/anjum-rashid.jpg)<br>
+![Image](../Images/anjum-rashid.JPG)<br>
 
 ## Name <br>
 **Anjum Rashid**
