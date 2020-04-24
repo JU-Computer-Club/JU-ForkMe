@@ -1,5 +1,4 @@
-![Image](../Images/anjum-rashid.JPG)<br>
-
+<img src="../Images/anjum-rashid.JPG" alt="Anjum Rashid image" width="400"/> <br>
 ## Name <br>
 **Anjum Rashid**
 
