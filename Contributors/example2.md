@@ -1,4 +1,4 @@
-![Image](../Images/merajalmaksud.jpg)<br>
+<img src="../Images/merajalmaksud.jpg" alt="Meraj Al Maksud" width="200"/> <br>
 ## Name <br>
 **Meraj al Maksud**
 ## Institute <br>
