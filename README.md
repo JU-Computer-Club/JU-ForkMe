@@ -1,4 +1,4 @@
-<img width="900" src="howto/JU-ForkMe.png" alt="Readme cover" />
+![Readme cover](howto/JU-ForkMe.png "JUForkMe Cover")
 
 # Welcome to JU-ForkMe
 ## **JU-ForkMe** helps you to make your first step on *open source contribution.*
