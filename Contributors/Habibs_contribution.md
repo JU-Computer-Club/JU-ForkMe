@@ -1,6 +1,6 @@
-![Image](../Images/Habib.jpg)<br>
+![Image](../Images/Habib_image.jpg)<br>
 ## Name <br>
-**Md.Habibur Rahman**
+**MD.HABIBUR RAHMAN**
 ## Institute <br>
 **Jahangirnagar University**
 ## Department <br>
