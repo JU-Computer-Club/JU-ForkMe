@@ -65,22 +65,21 @@ If everything goes right, you will see your name on *Contributors* list on the *
 Check your profile image if it shows up correctly.If not, look into *Your-Name.md* code and cross check it with your *Your-name.jpg* image on the *Images* folder. 
 
 ## Step-6 : Create PR
-
 Now you are ready to create your first pull request! <br>
-Click on **Create Pull Request**.
+Click on **Pull Request**.
 
 <img style="float: right;" src="howto/compare.png" alt="create a pull request" />
 
-Make sure to double check everything.
-<br>See if your github repository is on the the *head-repository* and it is pointing to the base repository (which is *JU-Computer-Club/JU-ForkMe*).
-<br> Replace the pull request **title** with "Your-Name" and in the **description**, you may write anything you want.(optional) 
-Click on **Create Pull Request**
+<br>Make sure to double check everything.
+<br>See if your github repository is on the the *head-repository* and it is pointing to the *base-repository* (which is *JU-Computer-Club/JU-ForkMe*).
+<br> Replace the pull request **title** with "Your-Name" and in the **description**, you may write anything you want.(optional) <br>
+Then click on **Create Pull Request**. <br>
 <img style="float: right;" src="howto/pull-request.png" alt="submit pull request" />
 
 ### Congratulations! Your pull request has been successfully created!
 
 ## Step-7 : Ping & Connect
-Star this repository! :star: <br>
+### Star this repository! :star: <br>
 Email us at info@jucomputerclub.org to and wait patiently till we review changes! <br>
 You will be notified if your pull request needs any revision or else it will be merged and you will find your **profile card** displayed here.
 
