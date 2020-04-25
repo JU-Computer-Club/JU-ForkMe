@@ -1,10 +1,10 @@
 #  Contributing Guideline
 
-Follow these steps to make your first pull request:
+## Follow these steps to make your first pull request:
 
-1. First Fork this repository in your github account.
+1.First **Fork** this repository in your github account.
 
-<img width="450" src="howto/fork.png" alt="fork this repository" />
+<img width="450" src="howto/fork.png" alt="fork this repository" align="center"/>
 
 
 2. Now you need to clone your forked repository to your local machine. <br>
@@ -70,10 +70,13 @@ Click on **Create Pull Request.**
 Click on **Create Pull Request**
 <img style="float: right;" src="howto/pull-request.png" alt="submit pull request" />
 
-7. Star this repository! :star:
+7. Congratulations! Your pull request has been successfully created!
 
-8. Congratulations! Your pull request has been successfully created!
+8. Star this repository! :star:
 
-9. Email us at info@jucomputerclub.org to and wait till we review and merge your changes!
+9. Email us at *info@jucomputerclub.org* to and wait patiently till we review changes!
 
-10. You can follow our socials mentioned at the *Credits sections*. (Optional)
+10. Till then, you can follow our socials mentioned at the *Credits sections*. (Optional)
+
+11. You will be notified if your pull request needs any revision or else it will be merged and you will see your profile card displayed.
+
