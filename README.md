@@ -2,11 +2,12 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/JU-Computer-Club/JU-ForkMe/blob/master/CONTRIBUTING.md) 
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
+
 # Welcome to JU-ForkMe
 ## **JU-ForkMe** helps you to make your first step on *open source contribution.* 
 Contribute to this project, make a *Pull Request* add see your profile card displayed here!
 
-# Contributors 
+# Profile Contributors 
 
 | **NAME**           | **PROFILE**                                                                                   |
 |--------------------|-----------------------------------------------------------------------------------------------|
