@@ -1,4 +1,4 @@
-<img src="../Images/Taharat_Aurpa.png" alt="Anjum Rashid image" width="200"/> <br>
+<img src="../Images/Taharat_Aurpa.jpg" alt="Tanjim Taharat Aurpa" width="200"/> <br>
 ## Name <br>
 **Tanjim Taharat Aurpa**
 
