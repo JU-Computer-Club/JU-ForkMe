@@ -15,6 +15,7 @@ Contribute to this project, make a *Pull Request* add see your profile card disp
 | Md.Habibur Rahman | [Click me](Contributors/Habibs_contribution.md) |
 | Anjum Rashid | [Click me](Contributors/anjum-rashid.md) |
 |Tanjim Taharat Aurpa| [Click me](Contributors/Taharat_Aurpa.md) |
+|Jannatul Ferdaws Amrin| [Click me](Contributors/Amrin.md) |
 
 # :scroll: HOW TO CONTRIBUTE
 
