@@ -15,7 +15,7 @@ Contribute to this project, make a *Pull Request* add see your profile card disp
 | Md.Habibur Rahman | [Click me](Contributors/Habibs_contribution.md) |
 | Anjum Rashid | [Click me](Contributors/anjum-rashid.md) |
 |Tanjim Taharat Aurpa| [Click me](Contributors/Taharat_Aurpa.md) |
-
+|Samantha Green| [Click me](Contributors/samantha.md) |
 # :scroll: HOW TO CONTRIBUTE
 
 ## Follow our [Contributing Guideline](CONTRIBUTING.md) to make your first pull request! 
