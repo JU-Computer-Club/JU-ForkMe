@@ -80,7 +80,7 @@ Then click on **Create Pull Request**. <br>
 
 ## Step-7 : Ping & Connect
 ### Star this repository! :star: <br>
-Email us at info@jucomputerclub.org to and wait patiently till we review changes! <br>
+Email us at jucomputerclub@gmail.com to and wait patiently till we review changes! <br>
 You will be notified if your pull request needs any revision or else it will be merged and you will find your **profile card** displayed here.
 
 Till then, you can follow our socials mentioned at the [Credits section](https://github.com/JU-Computer-Club/JU-ForkMe#credits) 
