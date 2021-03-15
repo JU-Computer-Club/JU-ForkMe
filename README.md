@@ -1,5 +1,6 @@
 ![Readme cover](howto/JU-ForkMe.png "JUForkMe Cover")
 
+[![Open in Gitpod!](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/JU-Computer-Club/JU-ForkMe)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-success?style=for-the-badge&logo=appveyor)](https://github.com/JU-Computer-Club/JU-ForkMe/blob/master/CONTRIBUTING.md) 
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue?style=for-the-badge&logo=appveyor)](https://www.firsttimersonly.com/)
 
